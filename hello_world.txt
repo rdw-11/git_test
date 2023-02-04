@@ -3,3 +3,5 @@ Adding text to the hello word file!
 testing git commit no m flag
 
 Finished testing git commit with no m flag
+
+new test
